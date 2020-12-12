@@ -10,7 +10,7 @@ Before you get this, you need
 
 If you need help with setting up SDL2, you can check out this [excellent tutorial](https://lazyfoo.net/tutorials/SDL/).
 
-In order to get compile, first clone the repository
+In order to get it running, first clone the repository
  ```
  git clone https://github.com/hadber/game-of-life.git
  ```
@@ -23,7 +23,7 @@ In order to get compile, first clone the repository
 
 Usage
 ---------------------
-You can left-click to set a cell as 'alive' or right-click to set it as 'dead'. The game starts as paused. To unpause (or pause later), press `space`.
+You can left-click to set a cell as 'alive' or right-click to set it as 'dead'. The game starts as paused. To unpause (or pause later), press `space` on your keyboard.
 
 Demo
 ---------------------
